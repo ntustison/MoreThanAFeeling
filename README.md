@@ -11,7 +11,7 @@ _Based on your 5K time of 17:42, these are your projected finish times:_
 * Marathon_________2:49:46 (6:29 per mile)
 
 
-
+"General aerobic" = 15-25% slower than marathon pace.  6:40 marathon pace ---> 7:40 - 8:20 min / mile
 
 
 
