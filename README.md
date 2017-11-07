@@ -1,6 +1,6 @@
 # MoreThanAFeeling
 
-__Goal:    6:40 marathon pace (2:54:48)__
+__Goal:    6:29 marathon pace (2:49:46)__
 
 _Based on your 5K time of 17:42, these are your projected finish times:_
 
@@ -15,9 +15,9 @@ _Based on your 5K time of 17:42, these are your projected finish times:_
 
 ### Types of training runs
 
-* _General aerobic runs:_ 15-25% slower than marathon pace.  6:40 marathon pace ---> 7:40 - 8:20 min/mile
+* _General aerobic runs:_ 15-25% slower than marathon pace.  6:29 marathon pace ---> 7:27 - 8:06 min/mile
 * _Medium-long runs:_ Similar pace as long runs
-* _Long runs:_ 10-20 % slower than marathon pace.  Start at the slow end and run last 5-10 miles at the higher end.  6:40 marathon pace ---> 7:20 - 8:00 min/mile
+* _Long runs:_ 10-20 % slower than marathon pace.  Start at the slow end and run last 5-10 miles at the higher end.  6:29 marathon pace ---> 7:08 - 7:47 min/mile
 * _Lactate-threshold runs:_ 15k to half marathon pace (6:10 - 6:20 min/mile).  Prior to run 2-3 mile warm-up.  After run cool down for 2 miles.
 * _V02 max intervals:_ 5k race pace (5:42 min/mile).  
 * _Speed training:_ Work up to full speed during the first 70 meters and then float the last 30 meters.  Jog 100 to 200 meters between repetitions.
