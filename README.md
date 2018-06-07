@@ -2,7 +2,7 @@
 
 __Goal:    6:17 marathon pace (2:44:44)__
 
-_Based on your half marathon time of 1:17:29, these are your projected finish times:_
+_Based on your half marathon time of 1:17:29, these are your [projected](https://hansonscoachingservices.com/hmmcalculator/race_equivalency_calculator.php) finish times:_
 
 * 1 Mile______________4:49 
 * 5 K________________16:51 (5:25 per mile)
