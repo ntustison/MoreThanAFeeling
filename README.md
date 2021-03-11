@@ -12,7 +12,7 @@
 * _Recovery runs:_
 
 
-## [Training paces] (McMillan)
+## McMillan running
 
 ### Endurance paces
 
@@ -48,7 +48,7 @@
 |1600m		| 6:04-6:15	| Hard |	8 to 9	| 
 
 
-### [Race times](https://www.mcmillanrunning.com)
+### Race times
 
 Current: vLT 6:29, vVO2 5:37, CV 6:14
 
