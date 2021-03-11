@@ -1,9 +1,7 @@
 # MoreThanAFeeling
 
 
-## Notes
-
-### Types of training runs
+## Types of training runs (Pfitzinger)
 
 * _General aerobic runs:_ 15-25% slower than marathon pace.  6:17 marathon pace ---> 7:14 - 7:51 min/mile
 * _Medium-long runs:_ Similar pace as long runs
@@ -14,9 +12,43 @@
 * _Recovery runs:_
 
 
-### Nutrition
+## [Training paces] (McMillan)
 
-### [Race strategy](https://www.mcmillanrunning.com)
+### Endurance paces
+
+| Type | Pace | Effort | RPE |
+|-------|------|-------|-------|
+| Recovery Jogs	| 8:12-8:55	| Very Easy	| 2 to 3 |
+| Long Runs  | 	7:12-8:24	 | Easy |	2 to 4 |
+| Easy Runs	| 7:07-8:07	| Easy |	2 to 4 |
+
+### Stamina paces
+
+| Type | Pace | Effort | RPE |
+|-------|------|-------|-------|
+| Steady-State Runs | 	6:36-6:53 |	Easy-Med	| 3 to 5 |
+| Tempo Runs | 6:19-6:34 |	Medium |	4 to 7 |
+| Tempo Intervals |	6:14-6:27	| Med-Hard	| 4 to 7 |
+| Cruise Intervals (1 mi) | 6:10-6:20 |	Med-Hard |	5 to 8 |
+| Cruise Intervals (1200m) |	6:10-6:19 | Med-Hard	 | 5 to 8 |
+| Cruise Intervals (1000m) |	6:10-6:19 | Med-Hard | 	5 to 8 |
+| Cruise Intervals (800m) | 6:10-6:20 | Med-Hard | 	5 to 8 |
+| Cruise Intervals (600m) | 6:10-6:20 | Med-Hard |	5 to 8 |
+| Cruise Intervals (400m) | 6:10-6:18| Med-Hard |	5 to 8 |
+
+### Speed paces
+
+| Type | Pace | Effort | RPE |
+|-------|------|-------|-------|
+|400m	| 5:29-5:45	| Hard |	8 to 9	| 
+|600m		| 5:36-5:55	| Hard |	8 to 9	| 
+|800m		| 5:44-5:59	| Hard |	8 to 9	| 
+|1000m		| 5:50-6:06	| Hard |	8 to 9	| 
+|1200m		| 5:50-6:12	| Hard |	8 to 9	| 
+|1600m		| 6:04-6:15	| Hard |	8 to 9	| 
+
+
+### [Race times](https://www.mcmillanrunning.com)
 
 Current: vLT 6:29, vVO2 5:37, CV 6:14
 
