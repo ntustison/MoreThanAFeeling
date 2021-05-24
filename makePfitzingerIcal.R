@@ -2,9 +2,10 @@ library( lubridate )
 
 #############
 
-marathonGoalDate <- ymd( 20210214 )
+marathonGoalDate <- ymd( 20210926 )
 # plan <- read.csv( "PfitzingerPlans/Pfitzinger_70to85_12week.csv", header = TRUE )
-plan <- read.csv( "PfitzingerPlans/Pfitzinger_55to70_18week.csv", header = TRUE )
+# plan <- read.csv( "PfitzingerPlans/Pfitzinger_55to70_18week.csv", header = TRUE )
+plan <- read.csv( "PfitzingerPlans/Pfitzinger_70to85_18week.csv", header = TRUE )
 # plan <- read.csv( "PfitzingerPlans/Pfitzinger_MultipleMarathons_10week.csv", header = TRUE )
 outputFile <- "plan.ics"
 
