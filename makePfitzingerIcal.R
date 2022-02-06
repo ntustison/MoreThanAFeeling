@@ -2,7 +2,7 @@ library( lubridate )
 
 #############
 
-marathonGoalDate <- ymd( 20210926 )
+marathonGoalDate <- ymd( 20220417 )
 # plan <- read.csv( "PfitzingerPlans/Pfitzinger_70to85_12week.csv", header = TRUE )
 # plan <- read.csv( "PfitzingerPlans/Pfitzinger_55to70_18week.csv", header = TRUE )
 plan <- read.csv( "PfitzingerPlans/Pfitzinger_70to85_18week.csv", header = TRUE )
