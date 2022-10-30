@@ -2,12 +2,8 @@ library( lubridate )
 
 #############
 
-marathonGoalDate <- ymd( 20221023 )
-# plan <- read.csv( "PfitzingerPlans/Pfitzinger_70to85_12week.csv", header = TRUE )
-# plan <- read.csv( "PfitzingerPlans/Pfitzinger_55to70_18week.csv", header = TRUE )
-# plan <- read.csv( "PfitzingerPlans/Pfitzinger_70to85_18week.csv", header = TRUE )
-# plan <- read.csv( "PfitzingerPlans/Pfitzinger_MultipleMarathons_6week.csv", header = TRUE )
-plan <- read.csv( "PfitzingerPlans/Pfitzinger_MultipleMarathons_4week.csv", header = TRUE )
+raceGoalDate <- ymd( 20221126 )
+plan <- read.csv( "OtherPlans/RyanHall_5k_10week.csv", header = TRUE )
 outputFile <- "plan.ics"
 
 ##############
@@ -16,7 +12,7 @@ weeks <- unique( plan$WeeksToGoal )
 numberOfWeeks <- length( weeks )
 numberOfDays <- numberOfWeeks * 7
 
-startDate <- marathonGoalDate - numberOfDays + 1
+startDate <- raceGoalDate - numberOfDays + 1
 currentDate <- startDate
 
 text <- c()
