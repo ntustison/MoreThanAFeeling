@@ -2,8 +2,8 @@ library( lubridate )
 
 #############
 
-raceGoalDate <- ymd( 20221126 )
-plan <- read.csv( "OtherPlans/RyanHall_5k_10week.csv", header = TRUE )
+raceGoalDate <- ymd( 20231008 )
+plan <- read.csv( "OtherPlans/StrengthRunning_Marathon_12week.csv", header = TRUE )
 outputFile <- "plan.ics"
 
 ##############
@@ -48,6 +48,7 @@ for( i in seq_len( numberOfWeeks ) )
     text <- append( text, "TRANSP:TRANSPARENT" )
     text <- append( text, "END:VEVENT" )
 
+    # cat( currentDate, " --> ", plan$Event[index], "\n" )
     currentDate <- currentDate + 1
     index <- index + 1
     }
